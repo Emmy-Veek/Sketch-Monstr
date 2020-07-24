@@ -1,0 +1,27 @@
+.top {
+    background-image: url(assets/women-s-pink-sweatshirt-and-brown-plaid-skirt-794064.jpg);
+    background-size: cover;
+    height: 600px;
+    overflow: hidden;
+}
+#Search{
+    height: 50px;
+    width: 350px;
+    border: none;
+    border-radius: 60px;
+    margin: 40px 40px;
+    padding: 20px;
+}
+.CTA {
+    color: white;
+}
+.CTA button {
+    width: 100px;
+    height: 40px;
+    background: none;
+    border-style: solid;
+    border-color: white;
+}
+.body {
+    padding-top: 40px;
+}
